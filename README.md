@@ -35,7 +35,7 @@ The system is divided into two n8n workflows.
 
 ### Workflow A — Job Discovery, Filtering and Ranking
 
-![Workflow A](docs/workflow-a.png)
+![Workflow A](docs/workflow-a-architecture.png)
 
 Workflow A is responsible for:
 
@@ -52,7 +52,7 @@ Workflow A is responsible for:
 
 ### Workflow B — Resume Personalization and Persistence
 
-![Workflow B](docs/workflow-b.png)
+![Workflow B](docs/workflow-b-architecture.png)
 
 Workflow B receives one vacancy at a time.
 
