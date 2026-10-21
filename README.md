@@ -386,3 +386,10 @@ Future iterations may include:
 **Version 1.0 — Functional**
 
 The core pipeline has been validated end-to-end with real job listings, including filtering, Fit scoring, ranking, historical deduplication, resume generation, persistence, vacancy-level auditing and batch-level monitoring.
+
+## Connect
+
+If you'd like to learn more about my work or get in touch:
+
+- **LinkedIn:** [View my LinkedIn profile](https://www.linkedin.com/in/caio-bauab-032189206/)
+- **Portfolio:** [Visit my portfolio](https://caiobauab360.github.io/)
